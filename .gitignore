@@ -4,3 +4,15 @@ node_modules/*
 .swc/
 .*.env
 .vscode/
+.DS_Store/
+**/.DS_Store
+
+*.db
+*.exp
+*.pdb
+*.dll
+*.a
+*.so
+*.db-shm
+*.db-wal
+*.sqlite
